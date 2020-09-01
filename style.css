@@ -1,0 +1,60 @@
+body {
+    
+
+}
+
+
+.container {
+    background-image: url('./Assets/white_marble.jpg');
+    width: 100%;
+    max-width: 992px;
+    margin: 0 auto;
+    clear: both;
+}
+
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: lightgrey;
+    width: 100%;
+    
+}
+
+#profilepic{
+    padding: 10px;
+    width: 240px;
+    height: 242px
+}
+
+h1{
+    color: teal;
+    width: 100%;
+    margin-top: 25px;
+    padding: 10px;
+    background : white;
+
+}
+
+#myinfo {
+    background: white; 
+}
+
+.navbar-brandme {
+    color: white;
+    background-color: teal;
+}
+    
+
+/* contact.html CSS*/
+#contactform {
+   
+    background: white; 
+}
+
+.form-group{
+    margin-right: 15px;
+}
+
+    
+
