@@ -18,27 +18,15 @@ footer {
     padding: 10px;
     background: lightgrey;
     width: 100%;
+    margin-top: 10px;
     
 }
 
-#profilepic{
-    padding: 10px;
-    width: 240px;
-    height: 242px
-}
+img {
+    border: black ;
+    margin: 5px;
+ }
 
-h1{
-    color: teal;
-    width: 100%;
-    margin-top: 25px;
-    padding: 10px;
-    background : white;
-
-}
-
-#myinfo {
-    background: white; 
-}
 
 .navbar-brandme {
     color: white;
@@ -46,15 +34,47 @@ h1{
 }
     
 
+h1{
+    color: teal;
+    width: 100%;
+    margin-top: 25px;
+    padding: 10px;
+    background : white;
+}
+
+
+
+/* index.html CSS*/
+
+#profilepic{
+    padding: 10px;
+    width: 240px;
+    height: 242px
+}
+
+#myinfo {
+    background: white; 
+}
+
+
 /* contact.html CSS*/
 #contactform {
-   
     background: white; 
+    padding-left: 10px;
+    padding-bottom: 10px;
 }
 
 .form-group{
     margin-right: 15px;
 }
+
+
+/* Portfolio CSS */
+#portfolio {
+   background: white; 
+}
+
+
 
     
 
