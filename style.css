@@ -1,9 +1,4 @@
-body {
-    
-
-}
-
-
+/* main container on each page*/
 .container {
     background-image: url('./Assets/white_marble.jpg');
     width: 100%;
@@ -25,9 +20,9 @@ footer {
 img {
     border: black ;
     margin: 5px;
- }
+}
 
-
+/* navbar-brandme customisation*/
 .navbar-brandme {
     color: white;
     background-color: teal;
