@@ -1,6 +1,6 @@
 /* main container on each page */
 .container {
-    background-image: url('./assets/white_marble.jpg');
+    background-image: url('./Assets/white_marble.jpg');
     width: 100%;
     max-width: 992px;
     margin: 0 auto;
@@ -13,9 +13,8 @@ footer {
     padding: 10px;
     background: lightgrey;
     width: 100%;
-    margin-top: 10px; 
+    margin-top: 10px;
 }
-
 
 img {
     margin: 5px;
