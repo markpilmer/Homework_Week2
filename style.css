@@ -1,4 +1,4 @@
-/* main container on each page*/
+/* main container on each page */
 .container {
     background-image: url('./Assets/white_marble.jpg');
     width: 100%;
@@ -7,28 +7,27 @@
     clear: both;
 }
 
-
+/* footer css*/
 footer {
     text-align: center;
     padding: 10px;
     background: lightgrey;
     width: 100%;
-    margin-top: 10px;
-    
+    margin-top: 10px; 
 }
 
+
 img {
-    border: black ;
     margin: 5px;
 }
 
-/* navbar-brandme customisation*/
+/* navbar-brandme customisation */
 .navbar-brandme {
     color: white;
     background-color: teal;
 }
-    
-
+ 
+/* header1 css */
 h1{
     color: teal;
     width: 100%;
@@ -37,10 +36,7 @@ h1{
     background : white;
 }
 
-
-
-/* index.html CSS*/
-
+/* index.html css */
 #profilepic{
     padding: 10px;
     width: 240px;
@@ -51,8 +47,7 @@ h1{
     background: white; 
 }
 
-
-/* contact.html CSS*/
+/* contact.html css */
 #contactform {
     background: white; 
     padding-left: 10px;
@@ -63,8 +58,7 @@ h1{
     margin-right: 15px;
 }
 
-
-/* Portfolio CSS */
+/* Portfolio css */
 #portfolio {
    background: white; 
 }
