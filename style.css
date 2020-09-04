@@ -1,6 +1,6 @@
 /* main container on each page */
 .container {
-    background-image: url('./Assets/white_marble.jpg');
+    background-image: url('./assets/white_marble.jpg');
     width: 100%;
     max-width: 992px;
     margin: 0 auto;
